@@ -7,6 +7,12 @@
 
 <div align=center>
 
-[![Junncode's github stats](https://github-readme-stats.vercel.app/api?username=junncode&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=junncode&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align=center>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junncode&layout=compact&theme=tokyonight)
 
 </div>
